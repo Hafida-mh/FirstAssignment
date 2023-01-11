@@ -1,0 +1,118 @@
+﻿1- 
+HTML : HyperText Markup Language
+CSS : Cascading Style Sheet
+
+
+2- 
+HTML
+
+
+3-
+CSS
+
+
+4-
+HTML tag contains all other HTML elements and it represents the root of HTML document.
+
+
+5-
+The  three parts of HTML element are : 
+* start tag ;
+* content ;
+* end tag.
+
+
+6-
+Purpose of DOCTYPE tag is to mention to the Browser the type of the document.
+
+
+7-
+HTML elements are components of html document that indicate to the browser how to structure the content of the html document.
+
+
+8-
+The header is a container for metadata. metadata represents the data about the HTML document, it means styling, characters, etc.
+
+
+9-
+The body element contains all the content of HTML document.
+
+
+10-
+With the tag  <p>  </p>
+
+
+
+
+11-
+with the tag <h1> </h1>
+
+
+12-
+There are 6 levels of headings.
+The difference between them is the sizing.
+
+
+
+
+13-
+<b> </b>  => text bold
+<strong> </strong>  => text important
+14-
+<em> </em>
+
+
+15-
+parenting
+
+
+16-
+Siblings
+
+
+17-
+<!-- - ->
+
+
+18-
+<ul> </ul>
+ alt
+19-
+<ol> </ol>
+
+
+20-
+<li> </li>
+
+
+21-
+<a> </a>
+
+
+22- 
+Attribute is a property of an HTML element.
+
+
+23-
+href
+
+
+24-
+when you click on an absolute link you will be redirected to an external web site.
+when you click on a relative link you will be redirected to other webpages of the same  website.
+
+
+25-
+<img >
+
+
+26-
+src - alt
+
+
+27-
+../filename/
+
+
+28-
+jpg, png, svg and webP
